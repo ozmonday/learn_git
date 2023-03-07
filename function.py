@@ -19,3 +19,6 @@ print(age)
 sample("sandi", 32, "hasko", susuk="usil", abik=34)
 
 print("hallo buddy")
+
+
+print("hay sob")
