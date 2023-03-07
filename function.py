@@ -17,3 +17,6 @@ age: int = 0
 print(age)
 
 sample("sandi", 32, "hasko", susuk="usil", abik=34)
+
+
+print("salah")
